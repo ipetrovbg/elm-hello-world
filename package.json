@@ -1,0 +1,8 @@
+{
+  "name": "elm-hello-world",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "elm-format src/ --yes",
+    "run": "elm make src/Main.elm --optimize --output=main.js && npm run format"
+  }
+}
