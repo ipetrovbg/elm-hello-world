@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be2aff83-2c1d-42b0-9441-e4250db97687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elm-stuff/0.19.1/d.dat" beforeDir="false" afterPath="$PROJECT_DIR$/elm-stuff/0.19.1/d.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.elm" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.elm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,12 +115,24 @@
       <workItem from="1575753929509" duration="343000" />
       <workItem from="1575754315762" duration="59000" />
       <workItem from="1575754388411" duration="3711000" />
-      <workItem from="1575834356796" duration="478000" />
+      <workItem from="1575834356796" duration="1085000" />
     </task>
+    <task id="LOCAL-00001" summary="remove elm-stuff and node_modules">
+      <created>1575835028175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575835028175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove elm-stuff and node_modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove elm-stuff and node_modules" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1260" y="2252" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575709143464">
@@ -131,38 +145,42 @@
       <screen x="1045" y="2183" width="1680" height="983" />
     </state>
     <state x="1572" y="2274" key="#com.intellij.ide.macro.MacrosDialog/1045.2183.1680.983/0.23.3840.2137@1045.2183.1680.983" timestamp="1575709324688" />
+    <state x="144" y="0" key="CommitChangelistDialog2" timestamp="1575835027153">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575835027153" />
     <state x="1379" y="2228" width="1011" height="938" key="EditFileWatcherDialog" timestamp="1575709624288">
       <screen x="1045" y="2183" width="1680" height="983" />
     </state>
     <state x="1379" y="2228" width="1011" height="938" key="EditFileWatcherDialog/1045.2183.1680.983/0.23.3840.2137@1045.2183.1680.983" timestamp="1575709624288" />
-    <state width="1378" height="369" key="GridCell.Tab.0.bottom" timestamp="1575753089747">
+    <state width="1378" height="219" key="GridCell.Tab.0.bottom" timestamp="1575835347987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1378" height="369" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575753089747" />
+    <state width="1378" height="219" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575835347987" />
     <state width="658" height="183" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1575010146657" />
     <state width="3778" height="615" key="GridCell.Tab.0.bottom/1045.2160.1680.1050/0.0.3840.2160@0.0.3840.2160" timestamp="1575707867460" />
     <state width="1618" height="38" key="GridCell.Tab.0.bottom/1045.2183.1680.1027/0.23.3840.2093@1045.2183.1680.1027" timestamp="1575708563886" />
     <state width="1618" height="100" key="GridCell.Tab.0.bottom/1045.2183.1680.983/0.23.3840.2137@1045.2183.1680.983" timestamp="1575721270286" />
-    <state width="1378" height="369" key="GridCell.Tab.0.center" timestamp="1575753089746">
+    <state width="1378" height="219" key="GridCell.Tab.0.center" timestamp="1575835347986">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1378" height="369" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575753089746" />
+    <state width="1378" height="219" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575835347986" />
     <state width="658" height="183" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1575010146656" />
     <state width="3778" height="615" key="GridCell.Tab.0.center/1045.2160.1680.1050/0.0.3840.2160@0.0.3840.2160" timestamp="1575707867458" />
     <state width="1618" height="38" key="GridCell.Tab.0.center/1045.2183.1680.1027/0.23.3840.2093@1045.2183.1680.1027" timestamp="1575708563885" />
     <state width="1618" height="100" key="GridCell.Tab.0.center/1045.2183.1680.983/0.23.3840.2137@1045.2183.1680.983" timestamp="1575721270285" />
-    <state width="1378" height="369" key="GridCell.Tab.0.left" timestamp="1575753089745">
+    <state width="1378" height="219" key="GridCell.Tab.0.left" timestamp="1575835347985">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1378" height="369" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575753089745" />
+    <state width="1378" height="219" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575835347985" />
     <state width="658" height="183" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1575010146655" />
     <state width="3778" height="615" key="GridCell.Tab.0.left/1045.2160.1680.1050/0.0.3840.2160@0.0.3840.2160" timestamp="1575707867457" />
     <state width="1618" height="38" key="GridCell.Tab.0.left/1045.2183.1680.1027/0.23.3840.2093@1045.2183.1680.1027" timestamp="1575708563885" />
     <state width="1618" height="100" key="GridCell.Tab.0.left/1045.2183.1680.983/0.23.3840.2137@1045.2183.1680.983" timestamp="1575721270284" />
-    <state width="1378" height="369" key="GridCell.Tab.0.right" timestamp="1575753089747">
+    <state width="1378" height="219" key="GridCell.Tab.0.right" timestamp="1575835347986">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1378" height="369" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575753089747" />
+    <state width="1378" height="219" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575835347986" />
     <state width="658" height="183" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1575010146656" />
     <state width="3778" height="615" key="GridCell.Tab.0.right/1045.2160.1680.1050/0.0.3840.2160@0.0.3840.2160" timestamp="1575707867459" />
     <state width="1618" height="38" key="GridCell.Tab.0.right/1045.2183.1680.1027/0.23.3840.2093@1045.2183.1680.1027" timestamp="1575708563886" />
@@ -172,10 +190,18 @@
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575754365382" />
     <state x="1147" y="2183" key="SettingsEditor/1045.2183.1680.983/0.23.3840.2137@1045.2183.1680.983" timestamp="1575709626793" />
-    <state x="217" y="162" width="1005" height="1711" key="run.anything.popup" timestamp="1575751772538">
+    <state x="120" y="47" key="Vcs.Push.Dialog.v2" timestamp="1575835030520">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="217" y="162" width="1005" height="1711" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1575751772538" />
+    <state x="120" y="47" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1575835030520" />
+    <state x="272" y="163" key="git4idea.merge.GitPullDialog" timestamp="1575835197581">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="272" y="163" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1575835197581" />
+    <state x="217" y="162" width="1005" height="1711" key="run.anything.popup" timestamp="1575835336720">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="217" y="162" width="1005" height="1711" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1575835336720" />
     <state x="217" y="162" width="1005" height="1711" key="run.anything.popup/0.23.1440.833@0.23.1440.833" timestamp="1574977054173" />
     <state x="579" y="389" width="2680" height="4107" key="run.anything.popup/1045.2160.1680.1050/0.0.3840.2160@0.0.3840.2160" timestamp="1575707867485" />
     <state x="1299" y="2358" width="1005" height="613" key="run.anything.popup/1045.2183.1680.1027/0.23.3840.2093@1045.2183.1680.1027" timestamp="1575708545724" />

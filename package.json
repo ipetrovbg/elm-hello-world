@@ -4,5 +4,8 @@
   "scripts": {
     "format": "elm-format src/ --yes",
     "run": "elm make src/Main.elm --optimize --output=main.js && npm run format"
+  },
+  "dependencies": {
+    "elm-format": "^0.8.2"
   }
 }
